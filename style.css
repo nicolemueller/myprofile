@@ -1,0 +1,204 @@
+style.css
+* {
+	padding: 80px;
+	margin: 5px;
+	box-sizing: border-box; 
+}
+
+body {
+	background: #whitesmoke;
+	background-image: linear-gradient(white, lightsalmon);
+	text-align: center;
+	color: rgb(10,10,10);
+	font-family: 'DM Sans', sans-serif;
+	font-size: 20px;
+	font-weight: 400;
+}
+p{
+	text-align: center;
+	text-size: 30px;
+}
+img {
+  border-radius: 80%;
+  }
+
+#banner1 h1
+{
+    background: white;
+    margin:80px 250px;
+   bottom-margin: 20px;
+    box-shadow: 0px 10px 30px;
+    border-radius: 10px;
+    align-content: center;
+    font-size: 60px;
+    text-align: center;
+    .vert_banners + .vert_banners 
+    margin: 0px auto;
+	padding:20px 15px;
+}
+
+#banner2
+{
+    background: white;
+    margin: 20px 250px;
+    padding: 50px;
+    box-shadow: 0px 10px 30px;
+    border-radius: 10px;
+    .vert_banners + .vert_banners 
+    margin-top:50px;
+    margin-bottom: 50px;
+}
+#banner3 
+{
+background: white;
+    margin: 50px 250px;
+    padding: 5px;
+    box-shadow: 0px 10px 30px;
+    border-radius: 20px;
+    width: 500;
+    .vert_banners + .vert_banners
+    text-align: center;
+ 
+}
+#banner4 
+{
+background: white;
+    margin: 50px 250px;
+    padding: 5px;
+    box-shadow: 0px 10px 30px;
+    border-radius: 20px;
+    .vert_banners + .vert_banners 
+    
+}
+
+#banner5
+{
+background: white;
+    margin: 50px 250px;
+    padding: 5px;
+    box-shadow: 0px 10px 30px;
+    border-radius: 20px;
+    .vert_banners + .vert_banners 
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+
+#banner6
+{
+background: white;
+   margin: 50px 250px;
+    padding: 5px;
+    box-shadow: 0px 10px 30px;
+    border-radius: 20px;
+    .vert_banners + .vert_banners 
+    margin-top:10px;
+    margin-bottom: 10px;
+    font-size: 25px;
+    text-align: center;
+    line-height: 50px;
+}
+#banner7 
+{
+background: white;
+   margin: 50px 250px;
+    padding: 5px;
+    box-shadow: 0px 10px 30px;
+    border-radius: 20px;
+    .vert_banners + .vert_banners 
+    margin-top:10px;
+    margin-bottom: 10px;
+    font-size: 25px;
+    text-align: center;
+    line-height: 50px;
+}
+
+h1,h2,h3{font-family: 'Abril Fatface', cursive;}
+h1{
+	color: #778899;
+
+}
+
+h2 {
+	color: #778899;
+}
+
+h3 {
+	color: #778899;
+	margin-bottom: 0px;
+}
+
+h1{	
+	font-size: 48px;
+	font-family: 'Abril Fatface', cursive;
+	font-weight: 200;
+	}
+h3{	
+	font-size: 45px;
+	font-family: 'Abril Fatface', cursive;
+	font-weight: 200;
+	}
+
+}
+p{
+	font-size: 25px;
+}
+
+.container{
+	width: 700px;
+	margin: 0 auto;
+}
+.container
+{
+	border:50px}
+
+@media(max-width: 720px)
+
+img{
+	width: 100px;
+	border-radius:80px: ; 
+	}
+
+ul {
+	display: inline-flex
+	}
+a{
+	text-decoration: none ;
+	color: blue;
+}
+a:hover{
+	color: hotpink;
+}
+
+#social
+{ 
+font-size:100px;
+margin-bottom: 10px;
+}
+
+#follow
+{
+	font-size: 30px;
+}
+
+.list-inline:
+{
+margin:80px 250px;
+margin-top: auto;
+}
+
+@media (max-width:  550px){
+	.container{
+		width: 300;
+	}
+#button
+{
+	background-color: lightpink;
+	color: black;
+	font-size: 20px;
+	text-emphasis: none;
+	padding: 11px 24px;
+	margin: 10px;
+	width: 250px;
+	border-radius: 15px;
+	margin: 15px auto;
+}
